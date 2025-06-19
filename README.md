@@ -1,4 +1,4 @@
-# 🧪 Atomic-Scanner – Recon Toolkit
+#  Atomic-Scanner – Recon Toolkit
 
 > **Educational Purpose Only:** This tool was developed as part of a project and is intended solely for educational and ethical use.
 
